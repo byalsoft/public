@@ -92,3 +92,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.logo-bg {
+  position: absolute;
+  z-index: -1;
+}
